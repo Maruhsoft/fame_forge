@@ -1,0 +1,27 @@
+{
+    "name": "fame-forge",
+    "version": "1.0.0",
+    "description": "Fame Forge Reality TV Show Application",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server/server.js",
+        "dev": "nodemon server/server.js",
+        "build": "webpack --mode production",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "axios": "^0.21.1",
+        "body-parser": "^1.19.0",
+        "cors": "^2.8.5",
+        "express": "^4.17.1",
+        "mongoose": "^5.10.9",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "react-router-dom": "^5.2.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.7",
+        "webpack": "^5.11.1",
+        "webpack-cli": "^4.3.1"
+    }
+}

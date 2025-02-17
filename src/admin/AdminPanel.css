@@ -1,0 +1,9 @@
+.admin-panel {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.admin-panel h2 {
+    margin-top: 20px;
+}
