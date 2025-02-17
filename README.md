@@ -1,15 +1,8 @@
-# Fame Forge
+# Vulnerability Fix Example
 
-Fame Forge is a reality TV show application where users can vote for their favorite contestants, watch live streams, and view contestant profiles.
+This project demonstrates how to address vulnerabilities reported by `npm audit`.
 
-## Setup Instructions
+## Steps to Setup the Project
 
-### Prerequisites
-
-- Node.js (>=12.x)
-- MongoDB
-
-### Installation
-
-1. Clone the repository:
+1. **Clone the repository:**
    
